@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "primer commit de la tienda nubbel"
+git branch -M main
+git remote add origin https://github.com/Nubbel1/nubbel-store.git
+git push -u origin main
